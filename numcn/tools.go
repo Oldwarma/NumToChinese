@@ -1,4 +1,4 @@
-package NumToChinese
+package numcn
 
 import (
 	"fmt"
